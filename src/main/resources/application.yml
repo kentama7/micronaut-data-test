@@ -1,0 +1,11 @@
+---
+micronaut:
+  application:
+    name: micronaut-data-test
+
+---
+datasources:
+  default:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: password
