@@ -1,5 +1,5 @@
 # micronaut-data-test
 
-# guid
+# guide
 
 https://micronaut-projects.github.io/micronaut-data/latest/guide/
