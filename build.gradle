@@ -40,7 +40,7 @@ dependencies {
     testImplementation "org.junit.jupiter:junit-jupiter-api"
     testImplementation "org.jetbrains.spek:spek-api:1.1.5"
     testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine"
-    testRuntimeOnly "org.jetbrains.spek:spek-junit-platform-engine:1.1.5"
+    testRuntimeOnly "org.jetbrains.spek:spek-junit-platform-engine:1.2.1"
 
     kapt 'io.micronaut.data:micronaut-data-processor:1.0.0.M1'
     implementation 'io.micronaut.data:micronaut-data-jdbc:2.3.1'
